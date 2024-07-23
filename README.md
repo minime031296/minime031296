@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently worked on [Travel Webiste, ebay Website cloning](https://github.com/minime031296/travelSite, https://github.com/minime031296/ebay)
 
-- 🌱 I’m currently learning **Nodes**
+- 🌱 I’m currently learning **Advance Dsa**
 
 - 💬 Ask me about **React, javaScript, HTML, CSS3, Python, ExpressJs, MongoDb, NodeJs, Redux**
 
