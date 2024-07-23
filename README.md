@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahak Vyas</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minime031296&label=Profile%20views&color=0e75b6&style=flat" alt="minime031296" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Nodes**
 
-- 💬 Ask me about **React, javaScript, HTML, CSS3, Python**
+- 💬 Ask me about **React, javaScript, HTML, CSS3, Python, ExpressJs, MongoDb, NodeJs, Redux**
 
 - 📫 How to reach me **Email - minime031296@gmail.com**
 
